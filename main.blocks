@@ -1,1 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="7^0v{uAQ,=Jt9(7uS]^?" x="20" y="20"></block><block type="device_forever" id="4L^G@//:h+Y24gIEA|Y#" x="225" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="4L^G@//:h+Y24gIEA|Y#" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="9b8Dg1Lz[u5}-,$tZaVg"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="C5Gr^Rz!h1Zbada)b9Tx"><value name="pause"><shadow type="timePicker" id="3Xg__0^}EUILq%,qn!4S"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="/1IU}5t~,[QF1s}e{8BR"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="=v]^vg0;G84$*Ex+%Ng/"><value name="pause"><shadow type="timePicker" id=",%Rzm?w{Xl6lnA9H6-AA"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
